@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(161, 202, 236);
+    background-image: url("https://architizer-prod.imgix.net/mediadata/projects/372011/82895fad.jpg?q=60&auto=format,compress&cs=strip&w=1680") ;
+    background-size:cover;
+    background-position: 0%;
+    overflow:auto;
+    padding: 0px;
+}
+#logo img{
+    
+    padding-right: 50px;
+    width: 250px;
+    cursor: pointer;
+ 
+ }
+ 
+#logo {
+    /* background-color: black; */
+    text-align: left;
+    opacity: 1  ; 
+    margin-left: 2px;  
+}
+
+#logo  ul{
+    float: right;
+    margin-right: 10px;
+    display: inline;
+    
+}
+ 
+ul  a{
+    font-size: 23px;
+    color: rgb(8, 8, 8);
+    padding: 15px;
+    text-decoration-line:none;
+    font-weight:bolder;
+}
+
+#logo ul  a:hover{
+    color: rgb(9, 182, 38);
+}
+
+#cont1 img {
+    width: 250px;
+    height: 250px;
+    opacity: 1;
+    margin-top: 75px;
+    margin-left: 220px;
+    padding-left: 20px;
+    list-style-type: none;
+}
+   
+#photo ul{
+    float: left;
+    font-family: sans-serif;
+    width: 290px;
+    margin-left: 120px;
+    list-style-type: none;
+}
+
+#photo ul li a{
+    color: white;
+    padding: 15px;
+    list-style-type: none;
+    width: 290px;
+    margin-left: 60px;
+}
+
+#photo2 ul li a{
+    list-style-type: none;
+    background-color: black;
+    width: 120px;
+    opacity: 1;
+    margin-right: 160px;
+    padding:15px;
+    text-decoration-line: none;
+}
+    
+#photo1 ul li a{
+    list-style-type: none;
+    background-color: black;
+    width: 120px;
+    opacity: 1;
+    margin-right: 200px;
+    margin-left: 40px;
+    padding:15px;
+    text-decoration-line: none;
+}
+
+#photo ul li a:hover{
+    color: rgb(9, 189, 33);
+}
+
+#photo1 ul{
+    float: center;
+    padding-left: 100px;    
+}
+
+#photo2 ul{
+    float: center;
+    padding-left: 100px;
+}
+footer{
+    color: rgb(3, 3, 3);
+    text-align: center;
+    padding-top: 10%;
+    font-weight: bolder;
+} 
+
+
+
+
+
+
+
+
